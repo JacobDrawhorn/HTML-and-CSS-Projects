@@ -5,6 +5,11 @@ html {
 	margin-left: 100px;
 }
 
+body {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: large;
+}
+
 .gallery {
 	display: flex;
 	align-items: center;
@@ -13,4 +18,11 @@ html {
 .gallery img {
 	margin-left: 5px;
 	margin-right: 5px;
+}
+
+.order {
+	width: auto;
+	margin: auto;
+	border: 15%;
+	border-radius: 15%;
 }
