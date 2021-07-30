@@ -1,0 +1,23 @@
+h3 {
+    text-align: center;
+}
+
+.style {
+    background-color: lightblue;
+}
+
+.text-style {
+    color: darkblue;
+}
+
+.logo img {
+    width: 600px;
+    height: 300px;
+    border: red;
+    border-style: dashed;
+    border-width: 2px;
+}
+
+.video {
+    border: 0;
+}
